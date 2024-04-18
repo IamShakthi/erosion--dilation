@@ -23,7 +23,8 @@ Dilate the Image
 
  
 ### Program:
-
+Developed by: YUVASAKTHI N.C
+Register Number:212222240120
 
 ##### Import the necessary packages
 ``` Python
